@@ -1,0 +1,14 @@
+PNR              : BD_20221111_100
+Train no         : 1001
+Train Name       : Shatabdi
+Express
+Source  		   : Bangalore
+To               : Delhi
+Travel Date      : 11/11/2022
+
+
+Passengers       : 
+Name : V   Age : 45   Gender : F    Fair : 1875.0
+Name : A   Age : 23   Gender : M    Fair : 2500.0
+
+Total Fare :4375.0
